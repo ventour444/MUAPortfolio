@@ -6,6 +6,7 @@ import Contact from "./components/Contact"
 import Privacy from "./components/Privacy"
 
 
+
 function App() {
  return (
   <div>
@@ -15,6 +16,7 @@ function App() {
     <About />
     <Contact />  
     <Privacy />  
+    
   </div>
   )
 }
